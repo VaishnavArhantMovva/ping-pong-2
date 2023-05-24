@@ -1,0 +1,52 @@
+body
+{
+  text-align: center;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+
+#play
+{
+    color: blue;
+    font-size: x-large;
+}   
+
+h3
+{
+    background-color: white;
+    color: blue;
+    font-size: 50px;
+    margin-top: 0%;
+    background-color: black;
+}
+
+#ins
+{
+    color: blue;
+    font-size: x-large;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+#reset
+{
+    color: blue;
+    font-size: x-large;
+}   
+
+h4{
+    background-color: black;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width:100%;
+    text-align: center;
+    margin: 0px;
+    font-size: 20px !important; 
+    color: blue;
+
+}
